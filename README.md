@@ -1,4 +1,4 @@
-# streamdeck-stuff\
+# streamdeck-stuff
 
 This is a repository to hold all my streamdeck customization scripts and graphics.
 
