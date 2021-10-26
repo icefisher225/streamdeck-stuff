@@ -1,1 +1,0 @@
-/Applications/Adobe Illustrator 2021/Adobe Illustrator.app

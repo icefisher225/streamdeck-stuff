@@ -1,1 +1,0 @@
-/Applications/Adobe Audition 2021/Adobe Audition 2021.app

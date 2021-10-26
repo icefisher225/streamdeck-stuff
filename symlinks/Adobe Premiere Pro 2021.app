@@ -1,1 +1,0 @@
-/Applications/Adobe Premiere Pro 2021/Adobe Premiere Pro 2021.app
