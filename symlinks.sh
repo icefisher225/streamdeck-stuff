@@ -10,7 +10,7 @@ fi
 for i in "$@"
 do
 	echo $i
-	var=$(find /Applications -maxdepth 3  -iname "*$i*.app") 
+	var=$(find /Applications /System/Applications -maxdepth 3  -iname "*$i*.app") 
 	echo $var
 	ln -s $var $DIR/symlinks
 	unset var

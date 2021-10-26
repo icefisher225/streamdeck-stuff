@@ -1,0 +1,1 @@
+/Applications/Adobe Photoshop 2021/Adobe Photoshop 2021.app
